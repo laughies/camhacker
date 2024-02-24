@@ -39,8 +39,8 @@ wget https://raw.githubusercontent.com/KasRoudra/CamHacker/main/ch.sh && bash ch
 
 ### Docker
 
- - `sudo docker pull kasroudra/camhacker`
- - `sudo docker run --rm -it --name camhacker kasroudra/camhacker`
+ - `sudo docker pull laughies/camhacker`
+ - `sudo docker run --rm -it --name camhacker laughies/camhacker`
  - `sudo docker cp camhacker:/CamHacker imgfiles` [Run this on another terminal to copy received image from docker to imgfiles folder keeping container open]
 
 ##### Usage
