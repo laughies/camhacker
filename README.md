@@ -5,12 +5,12 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.5-blue?style=for-the-badge&color=blue">
-    <img src="https://img.shields.io/github/stars/KasRoudra/CamHacker?style=for-the-badge&color=magenta">
-    <img src="https://img.shields.io/github/forks/KasRoudra/CamHacker?color=cyan&style=for-the-badge&color=purple">
-    <img src="https://img.shields.io/github/issues/KasRoudra/CamHacker?color=red&style=for-the-badge">
-    <img src="https://img.shields.io/github/license/KasRoudra/CamHacker?style=for-the-badge&color=blue">
+    <img src="https://img.shields.io/github/stars/laughies/CamHacker?style=for-the-badge&color=magenta">
+    <img src="https://img.shields.io/github/forks/laughies/CamHacker?color=cyan&style=for-the-badge&color=purple">
+    <img src="https://img.shields.io/github/issues/laughies/CamHacker?color=red&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/laughies/CamHacker?style=for-the-badge&color=blue">
 <br>
-    <img src="https://img.shields.io/badge/Author-KasRoudra-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-laughies-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
@@ -71,7 +71,7 @@ Options:
 
  
 ### [+] Preview 
-![Hack anyone's camera and get images](https://github.com/laughies/raw/main/files/ch.gif)
+![Hack anyone's camera and get images](https://github.com/laughies/files/ch.gif)
 
 ### [+] Dependencies
  - `php`
