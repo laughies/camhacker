@@ -92,12 +92,12 @@ Thanks to <a href="https://github.com/noob-hackers/grabcam">Noob-Hackers</a>, <a
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-laughies-green?style=for-the-badge&logo=github)](https://github.com/laughies)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-laughies-green?style=for-the-badge&logo=gmail)](mailto:appigowda7338@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-laughies-green?style=for-the-badge&logo=facebook)](https://facebook.com/laughies)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/Messenger-laughies-green?style=for-the-badge&logo=messenger)](https://m.me/laughies)
 
 
