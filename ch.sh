@@ -4,12 +4,12 @@
 # Version    : 1.5
 # Description: CamHacker is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
 # Author     : Laughies
-# Github     : https://github.com/KasRoudra
-# Email      : kasroudrakrd@gmail.com
-# Credits    : Noob-Hackers, TechChipNet, LinuxChoice
-# Date       : 5-09-2021
+# Github     : https://github.com/laughies
+# Email      : appigowda7338@gmail.com
+# Credits    : Kasrudra, Noob-Hackers, TechChipNet, LinuxChoice
+# Date       : 25-02-2024
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
+# Copyright  : laughies (2024-2025)
 # Language   : Shell
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
